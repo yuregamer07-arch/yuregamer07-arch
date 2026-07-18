@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/snake.svg" alt="Snake animation" />
-
+<img src="https://komarev.com/ghpvc/?username=Erildo07&label=Profile%20Views&color=0e75b6&style=flat" />
 ###
