@@ -44,5 +44,7 @@
 
 <br clear="both">
 
-<img src="https://komarev.com/ghpvc/?username=Erildo07&label=Profile%20Views&color=0e75b6&style=flat" />
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
