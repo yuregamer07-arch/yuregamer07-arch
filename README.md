@@ -41,10 +41,15 @@
 </div>
 
 ###
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=yuregamer07-arch.yuregamer07-arch&"  />
+</div>
 
+###
 <br clear="both">
 
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
+ <img data-importer="snake" src="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/snake.svg" alt="Snake animation" />
+
 </picture>
 
 ###
